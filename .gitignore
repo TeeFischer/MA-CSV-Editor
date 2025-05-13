@@ -95,4 +95,4 @@ dmypy.json
 
 # CSV Editor-specific files (optional)
 *.csv~  # temporary backups
-*.csv   # except for one test data file, better dont sync your data
+Daten/  # except for one test data file, better dont sync your data
