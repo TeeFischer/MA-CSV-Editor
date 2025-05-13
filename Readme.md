@@ -21,3 +21,10 @@ Install dependencies with:
 
 ```bash
 pip install pandas tkinter matplotlib mplcursors
+```
+
+Create executable with auto-py-to-exe:
+
+```bash
+pip install auto-py-to-exe
+```
